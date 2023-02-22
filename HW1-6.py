@@ -15,7 +15,7 @@ for i in range(0, 3): # левая сумма
     sumLeft += a1%10
     a1=a1//10
 
-for i in range(0, 3): # правая сумма
+for i in range(0, 3): # правая сумма #test commit changes
     #print(a%10) #контроль
     sumRight += a%10
     a=a//10
